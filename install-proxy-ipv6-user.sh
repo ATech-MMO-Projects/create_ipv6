@@ -5,8 +5,8 @@ random() {
 	echo
 }
 
-USER="jFX6F86k"
-PASSWORD="6k24UGDd"
+USER="jFX6F89n"
+PASSWORD="6k24UGDf"
 
 array=(1 2 3 4 5 6 7 8 9 0 a b c d e f)
 gen64() {
